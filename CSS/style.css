@@ -1,0 +1,210 @@
+#section_1st {
+    height: 500px;
+    width: 100%;
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#fast_div {
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#fast_div h1 {
+    font-size: 40px;
+
+}
+
+#fast_div p {
+    font-size: 30px;
+}
+
+#fast_div a {
+    text-decoration: none;
+    font-size: 40px;
+    background-image: linear-gradient(#33ccff, #ff99cc);
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+/* section 2 style start */
+#section_2_div {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 2em;
+}
+
+#donet_tk {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#donet_tk h1 {
+    display: inline;
+    padding: 30px;
+    border: 2px solid red;
+    text-align: center;
+    margin: 10px;
+
+}
+
+#red_backgrount {
+    background-color: rgba(249, 13, 13, 0.346);
+}
+
+/* section 2 style end */
+/* section 3 style start*/
+#horegantal {
+    margin: 50px auto;
+    text-align: center;
+    border-bottom: 1px solid black;
+    width: 800px;
+
+
+
+
+}
+
+#love {
+    text-decoration: none;
+    text-align: center;
+
+    background-image: linear-gradient(#091c79, #00d4ff);
+    color: white;
+    padding: 20px;
+    margin-left: 47%;
+    border-radius: 10px;
+}
+
+#Our_Donate {
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+#food_for {
+    display: flex;
+    text-align: center;
+    margin-left: 10%;
+    /* padding: 10px; */
+
+}
+
+#food {
+    width: 400px;
+    background-color: goldenrod;
+    text-align: justify;
+    padding: 20px;
+    margin: 10px;
+}
+
+#shelter {
+    width: 400px;
+    background-color: blue;
+    text-align: justify;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+#Frame {
+    width: 400px;
+    background-color: gold;
+    text-align: justify;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+
+/* section 3 style end */
+#Their_lives {
+    display: flex;
+    margin-top: 50px;
+}
+
+#Their_lives_div1 {
+    padding: 50px;
+    font-size: 2em;
+    background-color: rgba(244, 239, 233, 0.519);
+
+}
+
+#Their_lives_div1 a {
+    text-decoration: none;
+    padding: 15px 20px;
+    background-image: linear-gradient(#22c1c3, #fdbb2d);
+    border-radius: 10px;
+}
+
+#lomt {
+    display: flex;
+    margin-top: 50px;
+    background-color: rgba(253, 187, 45, 0.062);
+}
+
+#lomt_div1 {
+    padding: 20px;
+
+}
+
+#lomt_div2 {
+    font-size: 2em;
+}
+
+#lomt_div2 a {
+    text-align: center;
+    padding: 10px 20px;
+    background-image: linear-gradient(#833ab4, #fd1d1d, #fcb045);
+    text-decoration: none;
+    color: white;
+}
+
+#get_me {
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+#Subscribe {
+    padding: 100px;
+    height: 50px;
+    width: 500px;
+    margin-left: 35%;
+    text-align: center;
+    background-color: gold;
+
+}
+
+#input {
+    width: 300px;
+    height: 50px;
+
+}
+
+#sab {
+    padding: 17px 30px;
+    background-color: red;
+}
+
+#footer {
+    height: 200px;
+    width: 100%;
+    background-color: black;
+
+    text-align: center;
+
+}
+
+#footer h1 {
+    padding-top: 40px;
+    color: orange;
+
+}
+
+#footer h3 {
+    padding-top: 50px;
+    color: white;
+}
